@@ -1,9 +1,9 @@
 
 // ------------here we see the different type of primitive data types----------
 
-// let marks = 90;  //  number
-// marks =" ishu "; //  string
-// marks=true;      //  boolean
+let marks = 90;  //  number
+marks =" ishu "; //  string
+marks=true;      //  boolean
 
 let marks;          // undefined
 
