@@ -22,7 +22,7 @@ console.log(arr3[3]);
 
 //------------methods or function in an array----------------------------------------
 
-let brr = [2, 4, 80, 'ishu', '()']
+let brr = [2, 4, 80, 'ishu', '()']   // brr is the array name
 
 //--------------- 01 push
 brr.push("rajput");
